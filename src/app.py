@@ -17,7 +17,7 @@ import dash_bootstrap_components as dbc
 from dash import Input, Output, dcc, html
 
 app = dash.Dash(
-    title="MyApp",
+    title="Jerome's Test App",
     external_stylesheets=[dbc.themes.BOOTSTRAP],
     )
 
